@@ -39,7 +39,7 @@ Also: [**XiPay**](https://github.com/kali23041/xipay) — payment-gateway style 
 
 ### 📱 On Google Play
 
-- [Dawn — File Sharing](https://play.google.com/store/apps/details?id=com.oraclekartik.dawn): local Wi‑Fi transfers, no cloud
+- [Book My Cleaner](https://play.google.com/store/apps/details?id=com.oraclekartik.dawn): laundry service booking app
 - [Ferron](https://play.google.com/store/apps/details?id=com.rayloom.dhole): laundry billing / POS
 - [Scraply](https://play.google.com/store/apps/details?id=com.kasbills.kasbill): scrap market app
 
