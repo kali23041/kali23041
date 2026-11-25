@@ -28,8 +28,8 @@ I build AI-powered products end to end: LLM features, full-stack web apps, deskt
 
 | Project | What it is | Stack |
 |--------|------------|-------|
-| [**3D Gsplat**](https://github.com/kali23041/3d-gsplat) | Web front end of a BE final-year Gaussian Splatting 2D-to-3D reconstruction project (team project, Dattakala College of Engineering, Pune) | React · Vite · Firebase · Tailwind |
-| [**Okoret UI**](https://github.com/kali23041/Okoret-UI) | Open-source React component library with accessible primitives, token-driven theming and 100 motion effects | React · Vite · Tailwind |
+| [**SplatView 3D**](https://github.com/kali23041/splatview-3d) | Web front end of a BE final-year Gaussian Splatting 2D-to-3D reconstruction project (team project, Dattakala College of Engineering, Pune) | React · Vite · Firebase · Tailwind |
+| [**Okoret UI Kit**](https://github.com/kali23041/okoret-ui-kit) | Open-source React component library with accessible primitives, token-driven theming and 100 motion effects | React · Vite · Tailwind |
 | [**Orbit**](https://github.com/kali23041/Orbit-RR) | Mentorship booking app: mentor profiles, slot booking, and a live room with chat, notes and a Meet link | Rails 8 · Hotwire · Firebase · Stripe |
 | [**Spinora**](https://github.com/kali23041/Spinora) | Local Google Maps lead finder with a live map, scrape history and a leads pipeline | React · Express · Playwright · Leaflet |
 | [**Jansanwad**](https://github.com/kali23041/Jansanwad) | Marathi news portal front end, designed Devanagari-first | Next.js · TypeScript · Tailwind |
